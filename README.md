@@ -1,4 +1,5 @@
-![image test] (https://github.com/TheDunkingNun/osticket-prereqs/blob/23a5a82f773ee6b8613a9fee911c57f4615fa39c/Azure%20Picture.PNG)
+![image test] 
+(https://github.com/TheDunkingNun/osticket-prereqs/blob/23a5a82f773ee6b8613a9fee911c57f4615fa39c/Azure%20Picture.PNG)
 
 <h1>Microsoft Azure</h1>
 This tutorial outlines how to create a virtual machine with Microsoft Azure.<br />
