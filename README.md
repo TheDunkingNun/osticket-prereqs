@@ -1,4 +1,4 @@
-![image test] (https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg))
+(https://github.com/TheDunkingNun/osticket-prereqs/blob/02b2cd8ea2827cf33ede25dee0a440adf9d028f7/Azure%20Picture.PNG)
 
 <h1>Microsoft Azure</h1>
 This tutorial outlines how to create a virtual machine with Microsoft Azure.<br />
