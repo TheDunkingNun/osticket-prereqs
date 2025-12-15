@@ -2,7 +2,7 @@
 <h1>Microsoft Azure</h1>
 This tutorial outlines how to create a virtual machine with Microsoft Azure.<br />
 <h2>Video Demonstration</h2>
-- ### [YouTube: How To Setup Azure Virtual Machine]([[https://www.youtube.com](https://www.youtube.com/watch?v=OCiN37sjXuw&t=138s)]
+-  [YouTube: How To Setup Azure Virtual Machine]([[https://www.youtube.com](https://www.youtube.com/watch?v=OCiN37sjXuw&t=138s)]
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure (Virtual Machines/Compute)
 <h2>Operating Systems Used </h2>
