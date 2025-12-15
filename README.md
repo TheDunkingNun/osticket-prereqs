@@ -12,8 +12,6 @@ This tutorial outlines how to create a virtual machine with Microsoft Azure.<br 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
@@ -21,13 +19,10 @@ This tutorial outlines how to create a virtual machine with Microsoft Azure.<br 
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Make a Microsoft Azure Account
 
-<h2>Installation Steps</h2>
+
+<h2>Creating A Virtual Machine Within Microsoft Azure</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
