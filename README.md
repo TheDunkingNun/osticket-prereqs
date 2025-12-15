@@ -32,8 +32,10 @@ Go to search, then look for the virtual we created. Then click on Primary NIC pu
 <img width="1111" height="951" alt="image" src="https://github.com/user-attachments/assets/8591ecd9-e1e3-43b8-b3c9-3cfe6e1a05ef" />
 Then, press in the Windows search bar, Remote Desktop Connection, and paste the Public IP address you copied.
 <img width="569" height="280" alt="image" src="https://github.com/user-attachments/assets/c10142ab-45f9-44dd-a45d-652ff0f569ea" />
+
 When you press connect, you want to use the username and password you created for the VM earlier.
 <img width="558" height="606" alt="image" src="https://github.com/user-attachments/assets/ad24b7b7-4a94-4737-b945-6d7e9f57a52b" />
+
 You want to click on yes after you get to this screen, after putting login info for the VM.
 <img width="1588" height="1061" alt="image" src="https://github.com/user-attachments/assets/40d12f0a-330a-4d7c-99c1-fcdd649a4d77" />
 After you click no on everything, press next, and there you go, you have your very own VM. 
