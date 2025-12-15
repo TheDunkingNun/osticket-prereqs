@@ -1,27 +1,14 @@
 <img width="613" height="186" alt="image" src="https://github.com/user-attachments/assets/434eaaf3-c2f4-4cc9-af4d-023437fa12e6" />
-
-
 <h1>Microsoft Azure</h1>
 This tutorial outlines how to create a virtual machine with Microsoft Azure.<br />
-
-
 <h2>Video Demonstration</h2>
-
 - ### [YouTube: How To Setup Azure Virtual Machine]([[https://www.youtube.com](https://www.youtube.com/watch?v=OCiN37sjXuw&t=138s)]
-
 <h2>Environments and Technologies Used</h2>
-
 - Microsoft Azure (Virtual Machines/Compute)
-
 <h2>Operating Systems Used </h2>
-
 - Windows 10</b> (21H2)
-
 <h2>List of Prerequisites</h2>
-
 - Make a Microsoft Azure Account
-
-
 <h2>Creating A Virtual Machine Within Microsoft Azure</h2>
 
 <p>
