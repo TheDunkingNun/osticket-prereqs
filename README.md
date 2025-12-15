@@ -24,7 +24,7 @@ This tutorial outlines how to create a virtual machine with Microsoft Azure.<br 
 <h2>Creating A Virtual Machine Within Microsoft Azure</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://www.sqlfreelancer.com/blog/wp-content/uploads/2019/02/Azure-VM-1.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once signed into your Microsoft Azure account, click on the top 3 lines, then click on virtual machines. Now, click Create and click Use Azure virtual machine. 
